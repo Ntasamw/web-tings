@@ -1,0 +1,56 @@
+body{
+    background-color: #2C2C32;
+    color :azure;box-sizing: border-box;
+	min-height: 100%;
+	margin: 0;
+	padding: 15px 30px;
+	display: flex;
+	flex-direction: column;
+	font-family: "Segoe UI","Helvetica Neue","Helvetica",Arial,sans-serif;
+   
+}
+
+.diz{
+	border-radius: 500px;
+	width: 40%;
+	
+}
+
+.fisa{
+	background-color: rgb(0, 138, 138);
+	border-radius: 10px;
+	border-top-left-radius: 150px;
+	border-bottom-left-radius: 170px;
+
+}
+.fisainfo{
+	position: absolute;
+	top: 20%;
+	right:10%;
+}
+.gi{
+    background-image: url('web ting.png');
+	background-size: 24px;
+	background-repeat: no-repeat;
+	background-position: left center;
+	padding-left: 36px;
+	font-size: 30px;
+	letter-spacing: -0.04rem;
+	font-weight: 400;
+	color: rgb(90, 228, 221);
+	text-decoration: none;
+}
+.bra{
+	color: rgb(90, 228, 221);
+	text-decoration: none;
+	background-color: rgb(19, 18, 18);
+	border-radius: 5cap;
+	height:15%;
+	background-size: 24px;
+	background-repeat: no-repeat;
+	background-position: left center;
+	padding-left: 36px;
+	font-size: 20px;
+	letter-spacing: -0.04rem;
+	font-weight: 400;
+}
